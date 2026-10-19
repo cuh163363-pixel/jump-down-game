@@ -1,0 +1,6 @@
+{
+  "name": "Neon Dash - Obstacle Runner",
+  "description": "네온 대시 - 점프와 슬라이딩으로 장애물을 피하는 신나는 사이버펑크 2D 장애물 달리기 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
